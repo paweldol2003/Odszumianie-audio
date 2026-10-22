@@ -1,0 +1,62 @@
+{
+  "seed": 193582,
+  "lam": 0.999,
+  "window": 221,
+  "results": [
+    {
+      "file": "03.wav",
+      "stem": "03",
+      "n": 431802,
+      "fs": 22050,
+      "duration": 19.582857142857144,
+      "detected": 1663,
+      "repaired": 1653,
+      "percent": 0.38281434546389315,
+      "subtype": "PCM_16"
+    },
+    {
+      "file": "04.wav",
+      "stem": "04",
+      "n": 421502,
+      "fs": 22050,
+      "duration": 19.115736961451248,
+      "detected": 1716,
+      "repaired": 1711,
+      "percent": 0.40592927198447454,
+      "subtype": "PCM_16"
+    },
+    {
+      "file": "17.wav",
+      "stem": "17",
+      "n": 217547,
+      "fs": 22050,
+      "duration": 9.866077097505668,
+      "detected": 3243,
+      "repaired": 3191,
+      "percent": 1.4668094710568291,
+      "subtype": "PCM_16"
+    },
+    {
+      "file": "22.wav",
+      "stem": "22",
+      "n": 227231,
+      "fs": 22050,
+      "duration": 10.305260770975057,
+      "detected": 1020,
+      "repaired": 1020,
+      "percent": 0.44888241481135943,
+      "subtype": "PCM_16"
+    },
+    {
+      "file": "23.wav",
+      "stem": "23",
+      "n": 432141,
+      "fs": 22050,
+      "duration": 19.598231292517006,
+      "detected": 2120,
+      "repaired": 2093,
+      "percent": 0.48433265994200964,
+      "subtype": "PCM_16"
+    }
+  ]
+}

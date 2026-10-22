@@ -1,0 +1,122 @@
+[
+  {
+    "file": "03.wav",
+    "variant": "A",
+    "n": 431802,
+    "duration": 19.582857142857144,
+    "detected": 1663,
+    "repaired": 1653,
+    "omitted": 10,
+    "omitted_runs": 2,
+    "percent": 0.38281434546389315,
+    "change_rmse": 0.011923049175535303
+  },
+  {
+    "file": "03.wav",
+    "variant": "B",
+    "n": 431802,
+    "duration": 19.582857142857144,
+    "detected": 11486,
+    "repaired": 887,
+    "omitted": 10599,
+    "omitted_runs": 630,
+    "percent": 0.20541822409345023,
+    "change_rmse": 0.011860108608227213
+  },
+  {
+    "file": "04.wav",
+    "variant": "A",
+    "n": 421502,
+    "duration": 19.115736961451248,
+    "detected": 1716,
+    "repaired": 1711,
+    "omitted": 5,
+    "omitted_runs": 1,
+    "percent": 0.40592927198447454,
+    "change_rmse": 0.010155385823230752
+  },
+  {
+    "file": "04.wav",
+    "variant": "B",
+    "n": 421502,
+    "duration": 19.115736961451248,
+    "detected": 7586,
+    "repaired": 1089,
+    "omitted": 6497,
+    "omitted_runs": 506,
+    "percent": 0.25836176340800276,
+    "change_rmse": 0.010251395887302
+  },
+  {
+    "file": "17.wav",
+    "variant": "A",
+    "n": 217547,
+    "duration": 9.866077097505668,
+    "detected": 3243,
+    "repaired": 3191,
+    "omitted": 52,
+    "omitted_runs": 9,
+    "percent": 1.4668094710568291,
+    "change_rmse": 0.012971407140846904
+  },
+  {
+    "file": "17.wav",
+    "variant": "B",
+    "n": 217547,
+    "duration": 9.866077097505668,
+    "detected": 5642,
+    "repaired": 1819,
+    "omitted": 3823,
+    "omitted_runs": 541,
+    "percent": 0.8361411557042847,
+    "change_rmse": 0.02247498584303826
+  },
+  {
+    "file": "22.wav",
+    "variant": "A",
+    "n": 227231,
+    "duration": 10.305260770975057,
+    "detected": 1020,
+    "repaired": 1020,
+    "omitted": 0,
+    "omitted_runs": 0,
+    "percent": 0.44888241481135943,
+    "change_rmse": 0.010027265533917836
+  },
+  {
+    "file": "22.wav",
+    "variant": "B",
+    "n": 227231,
+    "duration": 10.305260770975057,
+    "detected": 3178,
+    "repaired": 743,
+    "omitted": 2435,
+    "omitted_runs": 226,
+    "percent": 0.32698003353415683,
+    "change_rmse": 0.010080413657955714
+  },
+  {
+    "file": "23.wav",
+    "variant": "A",
+    "n": 432141,
+    "duration": 19.598231292517006,
+    "detected": 2120,
+    "repaired": 2093,
+    "omitted": 27,
+    "omitted_runs": 5,
+    "percent": 0.48433265994200964,
+    "change_rmse": 0.017558584022531673
+  },
+  {
+    "file": "23.wav",
+    "variant": "B",
+    "n": 432141,
+    "duration": 19.598231292517006,
+    "detected": 3987,
+    "repaired": 3170,
+    "omitted": 817,
+    "omitted_runs": 112,
+    "percent": 0.7335568714840759,
+    "change_rmse": 0.028721336189260534
+  }
+]
